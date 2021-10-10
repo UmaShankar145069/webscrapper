@@ -1,0 +1,15 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uma shankar",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.1.3",
+    "needle": "^3.0.0"
+  }
+}
